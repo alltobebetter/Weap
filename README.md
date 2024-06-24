@@ -1,6 +1,6 @@
 # Web+Cheap = Weap
 
-**开发这里的目的是为了更好的学习与交流，如果有需求，您可以在discussion，issue联系我。**
+**开发这里的目的是为了更好的学习与交流，如果有需求，您可以在discussion，issue联系我，或者邮件me@supage.eu.org以及QQ：3036372843**
 
 ## 支持的项目
 
